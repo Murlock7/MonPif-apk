@@ -10,6 +10,9 @@ Projet personnel (et prétexte pour se former à l'IA), partagé en famille et e
 
 👉 **[Télécharger la dernière version (MonPif.apk)](https://github.com/Murlock7/MonPif-apk/releases/latest/download/MonPif.apk)**
 
+Vieux téléphone (Android refuse d'installer MonPif.apk) :
+[MonPif-anciens-telephones.apk](https://github.com/Murlock7/MonPif-apk/releases/latest/download/MonPif-anciens-telephones.apk).
+
 Toutes les versions et leurs nouveautés : [Releases](https://github.com/Murlock7/MonPif-apk/releases).
 
 ## Installer (Android 9 ou plus récent)
@@ -20,6 +23,11 @@ Toutes les versions et leurs nouveautés : [Releases](https://github.com/Murlock
 3. Si Play Protect affiche « Application non vérifiée » : **Installer quand même**
    (normal pour une application qui ne vient pas du Play Store).
 4. Mise à jour : télécharger la nouvelle version et l'installer par-dessus. Les données sont conservées.
+
+> **Vous avez installé la toute première version (1.32) ?** Les versions suivantes sont signées avec une
+> nouvelle clé : Android refusera de les installer par-dessus. Une seule fois : menu ⋮ → « Sauvegarde complète
+> (zip) », désinstaller MonPif, installer la nouvelle version, puis menu ⋮ → « Restaurer une sauvegarde ».
+> Les clés Gemini ne sont pas dans la sauvegarde : les saisir à nouveau.
 
 ## Clé Gemini (facultative)
 
